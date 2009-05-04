@@ -1,0 +1,13 @@
+#summary How to Build
+#labels Featured
+
+You need a libogc from snes9x-gx, get here:
+http://code.google.com/p/snes9x-gx/downloads/detail?name=libogc-30-04-2009.zip
+
+
+= Instructions (from snes9x-gx) =
+
+ # Download the source from SVN.
+ # Download and install devkitPro. You only need to install devkitPPC.
+ # Download the Snes9x devkitPro libraries from the Downloads page, and overwrite the libraries in your devkitPro installation folder.
+ # Make and you're done! 
