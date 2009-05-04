@@ -1,5 +1,5 @@
 #summary How to Build
-#labels Featured
+#labels Featured,Phase-Deploy
 
 You need a libogc from snes9x-gx, get here:
 http://code.google.com/p/snes9x-gx/downloads/detail?name=libogc-30-04-2009.zip
