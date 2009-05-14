@@ -1,0 +1,14 @@
+#summary Work To Do.
+#labels Phase-Design
+
+= Rom Details =
+
+_Here some mockups and screenshots_
+
+
+= Romlist with screenshots =
+
+The screenshots will be on SD or take it from the website:
+  * Load a screenshot and add his element (button?)
+  * Use this screenshot in rom detail to.
+  * User can take a screenshot when he made a snapshot.
