@@ -2,8 +2,7 @@
 #labels Phase-Deploy
 
 You need a libogc from snes9x-gx, get here:
-http://code.google.com/p/snes9x-gx/downloads/detail?name=libogc-30-04-2009.zip
-
+http://code.google.com/p/snes9x-gx/downloads/detail?name=libogc-04-04-2009.zip
 
 = Instructions (from snes9x-gx) =
 
