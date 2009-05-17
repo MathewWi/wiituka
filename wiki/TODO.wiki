@@ -1,6 +1,12 @@
 #summary Work To Do.
 #labels Phase-Design
 
+= 0.98.6b =
+ * Add gamecube pad support.
+ * Add left/right arrows (buttons?) in romlist.
+
+----
+
 = Rom Details =
 
 === Wiituka Mockup Rom Detail ===
